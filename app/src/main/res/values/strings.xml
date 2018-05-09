@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gigigo Test</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="unknown">Unknown</string>
+    <string name="video_subtitle">video subtitle</string>
+    <string name="video_audio">video audio</string>
+    <string name="err_connection">Ops, houve um problema de conexão, por favor toque na tela para forçar uma atualização.</string>
+    <string name="playlists">Playlists</string>
+    <string name="others">Others</string>
+</resources>
